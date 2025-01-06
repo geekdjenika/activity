@@ -1,11 +1,11 @@
-Welcome to Infrakunafoni
-=========================
+Bienvenue sur Infrakunafoni
+===========================
 
-Infrakunafoni is a web application dedicated to providing up-to-date information on traffic offenses in Mali, including penalties and legal advice to help combat corruption and educate drivers.
+Infrakunafoni est une application web dédiée à fournir des informations à jour sur les infractions de la circulation au Mali, y compris les pénalités et conseils juridiques pour aider à lutter contre la corruption et éduquer les conducteurs.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenu:
 
    installation
    getting_started
@@ -14,9 +14,9 @@ Infrakunafoni is a web application dedicated to providing up-to-date information
 Introduction
 ------------
 
-Au Mali, beaucoup de personnes conduisent leur véhicule sans pour autant savoir les différentes infractions qu’ils peuvent commettre et sont le plus souvent victimes de corruption lorsqu’il leur arrive d’en commettre. Fournir une liste complète et à jour des infractions routières prévues par le code de la route au Mali, ainsi que les amendes associées et les sentences et conseils pour chaque infraction.
+Au Mali, beaucoup de personnes conduisent leur véhicule sans pour autant savoir les différentes infractions qu'ils peuvent commettre et sont souvent victimes de corruption lorsqu'il leur arrive d'en commettre. Ce guide fournit une liste complète et à jour des infractions routières prévues par le code de la route au Mali, ainsi que les amendes associées et des conseils pour chaque infraction.
 
-Getting Started
----------------
+Premiers Pas
+-------------
 
-This guide will help you navigate through the app to find information on different infractions, their fines, and associated legal advice. Start here to learn how to effectively use Infrakunafoni.
+Ce guide vous aidera à naviguer à travers l'application pour trouver des informations sur différentes infractions, leurs amendes et des conseils juridiques associés. Commencez ici pour apprendre à utiliser efficacement Infrakunafoni.

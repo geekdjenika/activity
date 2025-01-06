@@ -1,16 +1,16 @@
-Installation Guide
-==================
+Guide d'Installation
+====================
 
-Infrakunafoni is accessible via web, requiring no traditional installation. Here is how you can access and start using it:
+Infrakunafoni est accessible via le web, ne nécessitant aucune installation traditionnelle. Voici comment y accéder et commencer à l'utiliser :
 
-Accessing the App
------------------
+Accéder à l'application
+---------------
 
-- **Web Access**: Simply visit [Infrakunafoni's homepage](http://www.infrakunafoni.com) on any browser.
-- **Requirements**: There are no specific hardware or software requirements beyond access to an internet connection and a modern web browser.
+- **Accès Web** : Visitez simplement [la page d'accueil d'Infrakunafoni](http://www.infrakunafoni.com) sur n'importe quel navigateur.
+- **Conditions Requises** : Il n'y a pas de conditions matérielles ou logicielles spécifiques autres que l'accès à une connexion internet et un navigateur web moderne.
 
 Configuration
 -------------
 
-- **Account Creation**: While not necessary, creating an account can help you save search history and settings.
-- **Setting Preferences**: Customize your experience by setting up preferences in your account settings.
+- **Création de Compte** : Bien que cela ne soit pas nécessaire, créer un compte peut vous aider à enregistrer votre historique de recherche et vos paramètres.
+- **Préférences de Configuration** : Personnalisez votre expérience en configurant les préférences dans les paramètres de votre compte.

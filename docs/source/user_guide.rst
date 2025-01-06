@@ -1,22 +1,22 @@
-User Guide
-==========
+Guide de l'Utilisateur
+======================
 
-This guide provides detailed instructions on how to utilize Infrakunafoni to its fullest potential.
+Ce guide fournit des instructions détaillées sur la manière d'utiliser Infrakunafoni au maximum de son potentiel.
 
-How to Use the App
-------------------
+Comment Utiliser l'App
+----------------------
 
-Infrakunafoni is designed to be intuitive and user-friendly. Follow these steps to find information about traffic offenses:
+Infrakunafoni est conçue pour être intuitive et facile à utiliser. Suivez ces étapes pour trouver des informations sur les infractions routières et les pénalités :
 
-1. **Search Functionality**: Enter the offense or keyword in the search bar.
-2. **Browse Offenses**: Browse through a categorized list of offenses.
-3. **Offense Details**: Click on any offense to view detailed information including penalties, fines, and legal advice.
+1. **Fonctionnalité de Recherche** : Entrez l'infraction ou le mot-clé dans la barre de recherche.
+2. **Parcourir les Infractions** : Parcourez une liste catégorisée d'infractions.
+3. **Détails de l'Infraction** : Cliquez sur n'importe quelle infraction pour voir des informations détaillées incluant les pénalités, les amendes, et des conseils juridiques.
 
 FAQs
 ----
 
-**Q: How often is the information updated?**
-A: The information is updated bi-annually or as new laws are passed.
+**Q : À quelle fréquence les informations sont-elles mises à jour ?**
+R : Les informations sont mises à jour tous les six mois ou lorsque de nouvelles lois sont promulguées.
 
-**Q: What should I do if I find an error in the information?**
-A: Please contact us through the feedback form available on the app.
+**Q : Que dois-je faire si je trouve une erreur dans les informations ?**
+R : Veuillez nous contacter via le formulaire de retour disponible sur l'application.

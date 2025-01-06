@@ -1,47 +1,45 @@
-Getting Started with Infrakunafoni
-==================================
+Démarrage Rapide avec Infrakunafoni
+===================================
 
-Welcome to Infrakunafoni, your go-to resource for understanding traffic laws in Mali. This guide will help you get started using the application smoothly and efficiently.
+Bienvenue sur Infrakunafoni, votre ressource principale pour comprendre les lois de la circulation au Mali. Ce guide vous aidera à commencer à utiliser l'application de manière fluide et efficace.
 
-Accessing Infrakunafoni
+Accéder à Infrakunafoni
 -----------------------
 
-Infrakunafoni is accessible via any standard web browser. Here's how to get started:
+Infrakunafoni est accessible via n'importe quel navigateur web standard. Voici comment commencer :
 
-1. **Open Your Browser**: Launch your preferred web browser.
-2. **Visit the Website**: Go to the URL: [http://www.infrakunafoni.com](http://www.infrakunafoni.com). You do not need to install any software to use Infrakunafoni.
+1. **Ouvrez Votre Navigateur** : Lancez votre navigateur web préféré.
+2. **Visitez le Site Web** : Rendez-vous sur [http://www.infrakunafoni.com](http://www.infrakunafoni.com). Vous n'avez pas besoin d'installer de logiciel pour utiliser Infrakunafoni.
 
-Navigating the Interface
+Naviguer dans l'Interface
 ------------------------
 
-Once you access Infrakunafoni, you'll find a simple and intuitive interface:
+Une fois que vous accédez à Infrakunafoni, vous trouverez une interface simple et intuitive :
 
-- **Homepage**: The landing page provides a quick overview of the app’s purpose and features.
-- **Search Bar**: Use the search bar at the top of the page to find specific information about traffic offenses and penalties.
-- **Menu**: Access different sections of the app, such as legal advice, frequently asked questions, and detailed guides on various offenses.
+- **Page d'Accueil** : La page de bienvenue offre un aperçu rapide du but et des fonctionnalités de l'application.
+- **Barre de Recherche** : Utilisez la barre de recherche en haut de la page pour trouver des informations spécifiques sur les infractions de la circulation et les pénalités.
+- **Menu** : Accédez aux différentes sections de l'application, telles que les conseils juridiques, les questions fréquemment posées, et les guides détaillés sur diverses infractions.
 
-First Steps
------------
+Premières Étapes
+----------------
 
-To make the most of Infrakunafoni, follow these initial steps:
+Pour tirer le meilleur parti d'Infrakunafoni, suivez ces étapes initiales :
 
-1. **Explore the Dashboard**: Familiarize yourself with the layout and where things are.
-2. **Search for an Offense**: Type a keyword related to your query in the search bar to find relevant information about traffic laws and penalties.
-3. **Read Offense Details**: Click on any listed offense to get detailed information, including the legal context, fines, and any applicable advice.
-4. **Bookmark Important Information**: If logged in, you can bookmark pages for easy retrieval later.
+1. **Explorez le Tableau de Bord** : Familiarisez-vous avec la disposition et l'emplacement des éléments.
+2. **Recherchez une Infraction** : Tapez un mot-clé lié à votre requête dans la barre de recherche pour trouver des informations pertinentes sur les lois de la circulation et les pénalités.
+3. **Lisez les Détails de l'Infraction** : Cliquez sur n'importe quelle infraction listée pour obtenir des informations détaillées, y compris le contexte légal, les amendes et tout conseil applicable.
+4. **Marquez les Informations Importantes** : Si vous êtes connecté, vous pouvez marquer des pages pour les récupérer facilement plus tard.
 
-FAQs
+FAQ
 ----
 
-- **Do I need to create an account?**
-  - No, an account is not required to access information. However, creating an account can enhance your experience by allowing you to bookmark information and receive updates.
+- **Dois-je créer un compte ?**
+  - Non, la création d'un compte n'est pas nécessaire pour accéder aux informations. Cependant, en créer un peut améliorer votre expérience en vous permettant de marquer des pages et de recevoir des mises à jour.
 
-- **Is there a mobile version of the app?**
-  - Infrakunafoni is designed to be responsive, so it works well on both desktop and mobile devices.
+- **Y a-t-il une version mobile de l'application ?**
+  - Infrakunafoni est conçue pour être responsive, elle fonctionne donc bien sur les ordinateurs de bureau comme sur les appareils mobiles.
 
-- **How current is the information provided?**
-  - The app's database is updated regularly to reflect the latest changes in traffic laws.
+- **À quelle fréquence les informations fournies sont-elles mises à jour ?**
+  - La base de données de l'application est régulièrement mise à jour pour refléter les derniers changements dans les lois de la circulation.
 
-For more detailed instructions on specific features or troubleshooting, refer to the User Guide.
-
-Congratulations, you are now ready to use Infrakunafoni effectively. Stay informed and drive safely!
+Félicitations, vous êtes maintenant prêt à utiliser efficacement Infrakunafoni. Restez informé et conduisez en toute sécurité!
