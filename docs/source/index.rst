@@ -7,28 +7,25 @@ Documentation Infra Kunafoni
 ==========================================
 
 
+Home
+====
+
+Introduction
+------------
+Welcome to Infrakunafoni...
+
+Getting Started
+---------------
+`Getting Started <getting_started.rst>`_
+
+Installation
+------------
+`Installation Guide <installation.rst>`_
+
+User Guide
+----------
+`User Guide <user_guide.rst>`_
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   Home
-   ====
-
-   Introduction
-   ------------
-   Welcome to Infrakunafoni...
-
-   Getting Started
-   ---------------
-   `Getting Started <getting_started.rst>`_
-
-   Installation
-   ------------
-   `Installation Guide <installation.rst>`_
-
-   User Guide
-   ----------
-   `User Guide <user_guide.rst>`_
-
-
