@@ -1,31 +1,22 @@
-.. Documentation Infra Kunafoni documentation master file, created by
-   sphinx-quickstart on Mon Jan  6 10:53:49 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to Infrakunafoni
+=========================
 
-Documentation Infra Kunafoni
-==========================================
-
-
-Home
-====
-
-Introduction
-------------
-Welcome to Infrakunafoni...
-
-Getting Started
----------------
-`Getting Started <getting_started.rst>`_
-
-Installation
-------------
-`Installation Guide <installation.rst>`_
-
-User Guide
-----------
-`User Guide <user_guide.rst>`_
+Infrakunafoni is a web application dedicated to providing up-to-date information on traffic offenses in Mali, including penalties and legal advice to help combat corruption and educate drivers.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   installation
+   getting_started
+   user_guide
+
+Introduction
+------------
+
+Au Mali, beaucoup de personnes conduisent leur véhicule sans pour autant savoir les différentes infractions qu’ils peuvent commettre et sont le plus souvent victimes de corruption lorsqu’il leur arrive d’en commettre. Fournir une liste complète et à jour des infractions routières prévues par le code de la route au Mali, ainsi que les amendes associées et les sentences et conseils pour chaque infraction.
+
+Getting Started
+---------------
+
+This guide will help you navigate through the app to find information on different infractions, their fines, and associated legal advice. Start here to learn how to effectively use Infrakunafoni.
