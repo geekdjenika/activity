@@ -1,7 +1,7 @@
-Guide d'Installation
+Guide d'installation
 ====================
 
-Infrakunafoni est accessible via le web, ne nécessitant aucune installation traditionnelle. Voici comment y accéder et commencer à l'utiliser :
+Infra Kunafoni est accessible via le web, ne nécessitant aucune installation traditionnelle. Voici comment y accéder et commencer à l'utiliser :
 
 Accéder à l'application
 ---------------

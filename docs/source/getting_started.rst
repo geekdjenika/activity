@@ -1,37 +1,36 @@
-Démarrage Rapide avec Infrakunafoni
+Démarrage rapide avec Infra Kunafoni
 ===================================
 
-Bienvenue sur Infrakunafoni, votre ressource principale pour comprendre les lois de la circulation au Mali. Ce guide vous aidera à commencer à utiliser l'application de manière fluide et efficace.
+Bienvenue sur Infra Kunafoni, votre ressource principale pour comprendre les lois de la circulation au Mali. Ce guide vous aidera à commencer à utiliser l'application de manière fluide et efficace.
 
 Accéder à Infrakunafoni
 -----------------------
 
-Infrakunafoni est accessible via n'importe quel navigateur web standard. Voici comment commencer :
+Infra Kunafoni est accessible via n'importe quel navigateur web standard. Voici comment commencer :
 
 1. **Ouvrez Votre Navigateur** : Lancez votre navigateur web préféré.
-2. **Visitez le Site Web** : Rendez-vous sur `http://www.infrakunafoni.com`__. Vous n'avez pas besoin d'installer de logiciel pour utiliser Infrakunafoni.
-__ http://www.infrakunafoni.com
+2. **Visitez le Site Web** : Rendez-vous sur http://www.infrakunafoni.com. Vous n'avez pas besoin d'installer de logiciel pour utiliser Infrakunafoni.
 
-Naviguer dans l'Interface
+Naviguer dans l'interface
 ------------------------
 
 Une fois que vous accédez à Infrakunafoni, vous trouverez une interface simple et intuitive :
 
-- **Page d'Accueil** : La page de bienvenue offre un aperçu rapide du but et des fonctionnalités de l'application.
-- **Barre de Recherche** : Utilisez la barre de recherche en haut de la page pour trouver des informations spécifiques sur les infractions de la circulation et les pénalités.
+- **Page d'accueil** : La page de bienvenue offre un aperçu rapide du but et des fonctionnalités de l'application.
+- **Barre de recherche** : Utilisez la barre de recherche en haut de la page pour trouver des informations spécifiques sur les infractions de la circulation et les pénalités.
 - **Menu** : Accédez aux différentes sections de l'application, telles que les conseils juridiques, les questions fréquemment posées, et les guides détaillés sur diverses infractions.
 
-Premières Étapes
+Premières étapes
 ----------------
 
-Pour tirer le meilleur parti d'Infrakunafoni, suivez ces étapes initiales :
+Pour tirer le meilleur parti de Infra Kunafoni, suivez ces étapes initiales :
 
-1. **Explorez le Tableau de Bord** : Familiarisez-vous avec la disposition et l'emplacement des éléments.
-2. **Recherchez une Infraction** : Tapez un mot-clé lié à votre requête dans la barre de recherche pour trouver des informations pertinentes sur les lois de la circulation et les pénalités.
-3. **Lisez les Détails de l'Infraction** : Cliquez sur n'importe quelle infraction listée pour obtenir des informations détaillées, y compris le contexte légal, les amendes et tout conseil applicable.
-4. **Marquez les Informations Importantes** : Si vous êtes connecté, vous pouvez marquer des pages pour les récupérer facilement plus tard.
+1. **Explorez le tableau de bord** : Familiarisez-vous avec la disposition et l'emplacement des éléments.
+2. **Recherchez une infraction** : Tapez un mot-clé lié à votre requête dans la barre de recherche pour trouver des informations pertinentes sur les lois de la circulation et les pénalités.
+3. **Lisez les détails de l'infraction** : Cliquez sur n'importe quelle infraction listée pour obtenir des informations détaillées, y compris le contexte légal, les amendes et tout conseil applicable.
+4. **Marquez les informations importantes** : Si vous êtes connecté, vous pouvez marquer des pages pour les récupérer facilement plus tard.
 
-FAQ
+FAQs
 ----
 
 - **Dois-je créer un compte ?**

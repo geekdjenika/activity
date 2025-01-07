@@ -1,9 +1,9 @@
-Guide de l'Utilisateur
+Guide de l'utilisateur
 ======================
 
-Ce guide fournit des instructions détaillées sur la manière d'utiliser Infrakunafoni au maximum de son potentiel.
+Ce guide fournit des instructions détaillées sur la manière d'utiliser Infra Kunafoni au maximum de son potentiel.
 
-Comment Utiliser l'App
+Comment utiliser l'app ?
 ----------------------
 
 Infrakunafoni est conçue pour être intuitive et facile à utiliser. Suivez ces étapes pour trouver des informations sur les infractions routières et les pénalités :
