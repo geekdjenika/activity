@@ -9,7 +9,7 @@ Accéder à Infrakunafoni
 Infrakunafoni est accessible via n'importe quel navigateur web standard. Voici comment commencer :
 
 1. **Ouvrez Votre Navigateur** : Lancez votre navigateur web préféré.
-2. **Visitez le Site Web** : Rendez-vous sur [http://www.infrakunafoni.com](http://www.infrakunafoni.com). Vous n'avez pas besoin d'installer de logiciel pour utiliser Infrakunafoni.
+2. **Visitez le Site Web** : Rendez-vous sur `http://www.infrakunafoni.com`_ _http://www.infrakunafoni.com. Vous n'avez pas besoin d'installer de logiciel pour utiliser Infrakunafoni.
 
 Naviguer dans l'Interface
 ------------------------

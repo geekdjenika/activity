@@ -6,7 +6,7 @@ Infrakunafoni est accessible via le web, ne nécessitant aucune installation tra
 Accéder à l'application
 ---------------
 
-- **Accès Web** : Visitez simplement [la page d'accueil d'Infrakunafoni](http://www.infrakunafoni.com) sur n'importe quel navigateur.
+- **Accès Web** : Visitez simplement `la page d'accueil d'Infrakunafoni`_ _http://www.infrakunafoni.com sur n'importe quel navigateur.
 - **Conditions Requises** : Il n'y a pas de conditions matérielles ou logicielles spécifiques autres que l'accès à une connexion internet et un navigateur web moderne.
 
 Configuration
