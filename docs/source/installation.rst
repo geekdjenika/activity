@@ -6,9 +6,12 @@ Infra Kunafoni est accessible via le web, ne nécessitant aucune installation tr
 Accéder à l'application
 ---------------
 
-- **Accès Web** : Visitez simplement :download:`la page d'accueil d'Infrakunafoni`_ sur n'importe quel navigateur.
+- **Accès Web** : Sur n'importe quel navigateur visitez simplement
+.. raw:: html
+
+    <a href="https://infrakunafoni.com" target="_blank" rel="noopener noreferrer">infrakunafoni.com</a>
 - **Conditions Requises** : Il n'y a pas de conditions matérielles ou logicielles spécifiques autres que l'accès à une connexion internet et un navigateur web moderne.
-.. _la page d'accueil d'Infrakunafoni: http://www.infrakunafoni.com
+
 
 Configuration
 -------------
