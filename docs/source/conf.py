@@ -13,6 +13,8 @@ release = '1.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
+def setup(app):
+    app.add_js_file('js/target-blank.js')
 
 extensions = [
     'sphinx.ext.duration',
@@ -32,3 +34,4 @@ language = 'fr'
 
 html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
+html_static_path = ['_static']
