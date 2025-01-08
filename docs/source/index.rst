@@ -1,5 +1,12 @@
 Bienvenue sur Infrakunafoni
 ===========================
+.. image:: _static/images/traffic_dribble.gif
+   :alt: Image introductive
+   :align: center
+
+.. image:: _static/images/illustration.jpg
+   :alt: Image non animée
+   :align: center
 
 Infrakunafoni est une application web dédiée à fournir des informations à jour sur les infractions de la circulation au Mali, y compris les pénalités et conseils juridiques pour aider à lutter contre la corruption et éduquer les conducteurs.
 
